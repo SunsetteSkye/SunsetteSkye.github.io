@@ -20,17 +20,17 @@
 
 /* MARKDOWN */
 h1 {
-	font: normal normal normal 175% FontSmokum;
+	font: normal normal normal 175% FontSaddlebag;
 	text-rendering: geometricPrecision;
 	margin: 0px;
 }
 h2 {
-	font: normal normal normal 150% FontSmokum;
+	font: normal normal normal 150% FontSaddlebag;
 	text-rendering: geometricPrecision;
 	margin: 0px;
 }
 h3 {
-	font: normal normal normal 125% FontSmokum;
+	font: normal normal normal 125% FontSaddlebag;
 	text-rendering: geometricPrecision;
 	margin: 0px;
 }
