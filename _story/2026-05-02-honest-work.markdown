@@ -18,27 +18,26 @@ The large woman made a note to visit when she was done. Assuming she got the rec
 The latter was an opinion she knew better than to utter as she waited here in hymnhouse finery. The ladies and gentlemen behind and before her were raring to join the fight in Boshoke, and abuzz with righteous indignation – about the Glorinton Massacre, about the fall of Fairwinds, about the servile, slavish manner that had supposedly gripped the Venchtian commoner in the modern era and made the Verwaltung of today a pale imitation of her metamothers in centuries past.
 
 And there were the chants. She could hear Platinum Barnes down the block leading another one.
-<div style="text-align: center;">\
-\
-_Down on the prairie, tumbleweeds blow_\
-_Firestorms burn, miners still go_\
-\
-_Old lady Vencht used to stand proud_\
-_The wisest of witches_\
-_Now turns to sloth and the sloppy_\
-_The lazes of riches_\
-\
-_Down on the prairie, tumbleweeds blow_\
-_Firestorms burn, miners still go_\
-\
-_Old lady Vencht once led nations_\
-_Sowing glory and gold_\
-_Now flees truth, sowing only lies_\
-_Min’sters favor the bold_\
-\
-_Down on the prairie, tumbleweeds blow_\
-_Firestorms burn, miners still go_\
-\</div>
+<div style="text-align: center;"><em>
+Down on the prairie, tumbleweeds blow<br />
+Firestorms burn, miners still go<br /><br />
+
+Old lady Vencht used to stand proud<br />
+The wisest of witches<br />
+Now turns to sloth and the sloppy<br />
+The lazes of riches<br /><br />
+
+Down on the prairie, tumbleweeds blow<br />
+Firestorms burn, miners still go<br /><br />
+
+Old lady Vencht once led nations<br />
+Sowing glory and gold<br />
+Now flees truth, sowing only lies<br />
+Min’sters favor the bold<br /><br />
+
+Down on the prairie, tumbleweeds blow<br />
+Firestorms burn, miners still go<br /><br />
+</em></div>
 Mara liked a good chant; there was energy and togetherness in sharing words with a crowd, a bone-deep sense that you weren’t alone, that you were part of the great ocean of life. It helped you grieve, and there was a lot of tragedy to grieve lately. And it was true that Duvencht fiscal policy had turned almost punitive, after the Marches escaped the worst of the plague.
 
 However, this stuff from the Barnes & Company mascot was jingoistic, opportunistic tripe. The Glorinton Massacre was a great atrocity, but the people who yelped about it most weren’t the poor. They were either plantation lords or nouveau riche whose fortunes stood to gain outside the restrictions and regulations of the Imperial Kanzleis. B & C wouldn’t send their mascot here to bark like a dog if they didn’t smell a golden stream.
