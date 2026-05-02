@@ -7,6 +7,14 @@
 }
 
 @font-face {
+  font-family: 'FontRye';
+  src: url('Rye-Regular.ttf');
+  src: url('Rye-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
   font-family: 'FontSmokum';
   src: url('Smokum-Regular.ttf');
   src: url('Smokum-Regular.ttf') format('truetype');
