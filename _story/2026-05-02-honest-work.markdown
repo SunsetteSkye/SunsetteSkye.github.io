@@ -8,8 +8,6 @@ Mara Bloom reckoned that there were forests with less wood than Meteor City.\n\n
 But lumber shipments were hard to get across the mountains these days. For those cases there were tents. Big ones. The striped affair sitting on the end of this dusty street was near as big as the Lanva Royale, and it still had a line coming out of it that stretched all the way around the block, ending in front of a building covered in scandalously shapely masculine silhouettes.\n\n
 The large woman made a note to visit when she was done. Assuming she got the recruitment bounty, anyway. She still wasn’t sure that she’d talk her way through that; she wasn’t even sure she’d talk herself into staying long enough to try. The line was long, noisy, and dense enough to be humid despite the dry galeren sun, and she didn’t have any interest in being a rebel for its own sake."
 ---
-![Image](/assets/mara8_narrow.png "A wide woman with pale skin, brown hair, hazel eyes, and a red military uniform. A white apron carries a bevy of alchemical supplies.") 
-
 Meteor City was the biggest of boomtowns: an ugly, sprawling expanse, built in haste on the prairie wastes. The place was littered with skyships, docking towers, lodging houses, and most especially bordellos, built in every color of timber and bracketed in brightly painted signs.
 Mara Bloom reckoned that there were forests with less wood than Meteor City.
 
@@ -21,24 +19,24 @@ The latter was an opinion she knew better than to utter as she waited here in hy
 
 And there were the chants. She could hear Platinum Barnes down the block leading another one.
 
-*Down on the prairie, tumbleweeds blow
-Firestorms burn, miners still go
+_Down on the prairie, tumbleweeds blow_\
+_Firestorms burn, miners still go_
 
-Old lady Vencht used to stand proud
-The wisest of witches
-Now turns to sloth and the sloppy
-The lazes of riches
+_Old lady Vencht used to stand proud_\
+_The wisest of witches_\
+_Now turns to sloth and the sloppy_\
+_The lazes of riches_
 
-Down on the prairie, tumbleweeds blow
-Firestorms burn, miners still go
+_Down on the prairie, tumbleweeds blow_\
+_Firestorms burn, miners still go_
 
-Old lady Vencht once led nations
-Sowing glory and gold
-Now flees truth, sowing only lies
-Min’sters favor the bold
+_Old lady Vencht once led nations_\
+_Sowing glory and gold_\
+_Now flees truth, sowing only lies_\
+_Min’sters favor the bold_
 
-Down on the prairie, tumbleweeds blow
-Firestorms burn, miners still go*
+_Down on the prairie, tumbleweeds blow_\
+_Firestorms burn, miners still go_
 
 Mara liked a good chant; there was energy and togetherness in sharing words with a crowd, a bone-deep sense that you weren’t alone, that you were part of the great ocean of life. It helped you grieve, and there was a lot of tragedy to grieve lately. And it was true that Duvencht fiscal policy had turned almost punitive, after the Marches escaped the worst of the plague.
 
