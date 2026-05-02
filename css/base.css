@@ -162,6 +162,7 @@ section > h1 {
 section > div {
 	box-sizing: border-box;
 	padding: 5px 25px 5px 25px;
+	box-shadow: 10px 10px 5px black;
 }
 section > div > p:first-of-type {
 	text-indent: 0px;
