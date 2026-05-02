@@ -9,6 +9,7 @@ But lumber shipments were hard to get across the mountains these days. For those
 The large woman made a note to visit when she was done. Assuming she got the recruitment bounty, anyway. She still wasn’t sure that she’d talk her way through that; she wasn’t even sure she’d talk herself into staying long enough to try. The line was long, noisy, and dense enough to be humid despite the dry galeren sun, and she didn’t have any interest in being a rebel for its own sake."
 ---
 Meteor City was the biggest of boomtowns: an ugly, sprawling expanse, built in haste on the prairie wastes. The place was littered with skyships, docking towers, lodging houses, and most especially bordellos, built in every color of timber and bracketed in brightly painted signs.
+
 Mara Bloom reckoned that there were forests with less wood than Meteor City.
 
 But lumber shipments were hard to get across the mountains these days. For those cases there were tents. Big ones. The striped affair sitting on the end of this dusty street was near as big as the Lanva Royale, and it still had a line coming out of it that stretched all the way around the block, ending in front of a building covered in scandalously shapely masculine silhouettes.
