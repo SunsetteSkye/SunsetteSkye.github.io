@@ -1,5 +1,5 @@
 ---
-# NEWS
+# STORY
 ---
 <!doctype html>
 <html lang="en">
@@ -10,7 +10,7 @@
 	<body>
 		{%- include header.html -%}
 		{%- include supportus.html -%}
-		{%- include navigator-top.html colurl="/news.html"-%}
+		{%- include navigator-top.html colname="story" colurl="/story.html"-%}
 		<section>
 			<h1>{{ page.title }}</h1>
 			<div>
@@ -19,7 +19,7 @@
 				{{ page.content | markdownify }}
 			</div>
 		</section>
-		{%- include navigator-bottom.html colurl="/news.html"-%}
+		{%- include navigator-bottom.html colname="story" colurl="/story.html"-%}
 		{%- include footer.html -%}
 	</body>
 </html>
