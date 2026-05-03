@@ -102,6 +102,8 @@ hr {
 }
 
 /* HEADER */
+#theme-toggle i { font-size: 150%; }
+
 header {
 	box-sizing: border-box;
 	display: block;
