@@ -1,5 +1,5 @@
 ---
-title: Honest Work
+title: Mara Bloom — Honest Work
 author: Cynthia
 preview: /assets/mara8_narrow.png
 previewalt: A wide woman with pale skin, brown hair, hazel eyes, and a red military uniform. A white apron carries a bevy of alchemical supplies.
