@@ -20,7 +20,7 @@ vermin.
 But sails were also made of canvas.
 
 For the last hour Ffion's blood had churned with magic -- small little
-gestures, each individually too small to be called a spell -- bending
+gestures, each individually too miniscule to be called a spell -- bending
 that violent wind around her in subtle ways. Not enough to stop it, but
 enough to keep on her feet. She'd wear herself out if she tried anything
 more, as far as she had to go.
@@ -108,10 +108,10 @@ Lightning sparked in her eyes as she pointed southward.
 
 "The capital of Lanva March. Meteor City."
 
-"What a coincidence!" The woman's booming cheer was mostly unimpeded by
+"Ah, what a coincidence!" The woman's booming cheer was mostly unimpeded by
 the touch of fear in her voice. It was one thing to know the garb of a
-witch, and another to see the violet hair and eyes for oneself. "Ah,
-well, I'm headed there as well, perhaps I could--"
+witch, and another to see the violet hair and eyes for oneself. "Well, I'm
+headed there as well, perhaps I could--"
 
 "Yes," Ffion said, cutting her off and moving more quickly. "Thank you."
 
@@ -131,18 +131,19 @@ and maintenance of further wards against the wind.
 
 If that were not inhospitable enough, the toxic alchemy which permeates
 the land makes Lanva even more difficult to inhabit. The great lake at
-the center of Lanva is beautifully sterile, its clear and lifeless water
+the center of the crater is beautifully sterile, its clear and lifeless water
 unsuited for drinking or agriculture without processing. Centuries of
 tending by witches have left significant patches where rye or other
 grains can be farmed, but food from Lanva has a distinctive bitter tang
 that extends even to the meat of animals raised on the prairie.
 
 Many native Lanvans -- human, plant, or animal -- have significant
-mutations as a result of eating food from toxic soil -- most commonly
-taking on atavistic or deformed traits, especially around the ears. The
-bison herds tainted by this are known as wronghorns; the humans are
-called wastelanders. Both have been deemed increasingly undesirable as
-Lanva grows ever more politically and economically important.
+mutations as a result of eating food from toxic soil. They most commonly
+take on atavistic or deformed traits, especially around the ears, but the
+changes are myriad.  The bison herds tainted by this are known as
+wronghorns; the humans are called wastelanders. Both have been deemed
+increasingly undesirable as Lanva grows ever more politically and
+economically important.
 
 The war has only accelerated this change.
 
