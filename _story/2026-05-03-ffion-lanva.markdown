@@ -2,7 +2,7 @@
 title: Ffion Byrewythe — Lanva March
 author: Cynthia
 ---
-excerpt: Beneath the hot sun, the wind howled and swirled across a vast and 
+Beneath the hot sun, the wind howled and swirled across a vast and 
 unending prairie; each gust seized hold of flaxen stalks and *pulled*,
 threatening to yank them out by their roots. But no matter how severe
 the gale, the wheat and rye survived, wafting back to vaguely upright
