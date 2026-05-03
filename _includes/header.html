@@ -22,6 +22,77 @@
 		<a href="https://www.youtube.com/channel/UC6y2g5TLn84bTuG8nnzENeQ/"><h2>Music</h2></a><h2>&nbsp;♦&nbsp;</h2>
 		<a href="/5e/"><h2>5E</h2></a>
 		</span>
-		<span style="display: inline-block; width: 10%; text-align: right;"><i class="fa fa-star" aria-hidden="true"></i>&nbsp;</span>
+		<span style="display: inline-block; width: 10%; text-align: right;">
+			<a href="#" id="theme-toggle" role="button" aria-label="Play theme music" aria-pressed="false" title="Play theme music"><i class="fa fa-youtube-play fa-fw" aria-hidden="true"></i></a>&nbsp;
+			<i class="fa fa-star" aria-hidden="true"></i>&nbsp;
+		</span>
 	</nav>
+	<div id="theme-player" aria-hidden="true" style="position:absolute; left:-9999px; top:-9999px; width:1px; height:1px; overflow:hidden;"></div>
 </header>
+<script>
+(function () {
+	var PLAYLIST_ID = 'PL1XJlM2WvCINiHhdw0_O3jY0tXa3NFtQw';
+	var player = null;
+	var ready = false;
+	var pendingPlay = false;
+	var toggle = document.getElementById('theme-toggle');
+	var icon = toggle ? toggle.querySelector('i') : null;
+
+	function setPlayingUI(playing) {
+		if (!toggle || !icon) return;
+		toggle.setAttribute('aria-pressed', playing ? 'true' : 'false');
+		toggle.setAttribute('aria-label', playing ? 'Pause theme music' : 'Play theme music');
+		toggle.setAttribute('title', playing ? 'Pause theme music' : 'Play theme music');
+		icon.className = playing ? 'fa fa-pause fa-fw' : 'fa fa-youtube-play fa-fw';
+	}
+
+	function loadAPI() {
+		if (window.YT && window.YT.Player) { onYouTubeIframeAPIReady(); return; }
+		var existing = document.getElementById('youtube-iframe-api');
+		if (existing) return;
+		var tag = document.createElement('script');
+		tag.id = 'youtube-iframe-api';
+		tag.src = 'https://www.youtube.com/iframe_api';
+		document.head.appendChild(tag);
+	}
+
+	window.onYouTubeIframeAPIReady = function () {
+		player = new YT.Player('theme-player', {
+			height: '1',
+			width: '1',
+			playerVars: {
+				listType: 'playlist',
+				list: PLAYLIST_ID,
+				autoplay: 0,
+				controls: 0,
+				disablekb: 1,
+				fs: 0,
+				modestbranding: 1,
+				playsinline: 1,
+				rel: 0
+			},
+			events: {
+				onReady: function () {
+					ready = true;
+					if (pendingPlay) { pendingPlay = false; player.playVideo(); }
+				},
+				onStateChange: function (e) {
+					if (e.data === YT.PlayerState.PLAYING) setPlayingUI(true);
+					else if (e.data === YT.PlayerState.PAUSED || e.data === YT.PlayerState.ENDED) setPlayingUI(false);
+				}
+			}
+		});
+	};
+
+	if (toggle) {
+		toggle.addEventListener('click', function (e) {
+			e.preventDefault();
+			if (!player) { pendingPlay = true; loadAPI(); return; }
+			if (!ready) { pendingPlay = true; return; }
+			var state = player.getPlayerState();
+			if (state === YT.PlayerState.PLAYING) player.pauseVideo();
+			else player.playVideo();
+		});
+	}
+})();
+</script>
