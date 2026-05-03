@@ -25,7 +25,9 @@ that violent wind around her in subtle ways. Not enough to stop it, but
 enough to keep on her feet. She'd wear herself out if she tried anything
 more, as far as she had to go.
 
+
 <!--more-->
+
 
 It was rough today; the prairie schooners were few and far between, and
 the wronghorn herds out in the distance were restless. But Ffion had
