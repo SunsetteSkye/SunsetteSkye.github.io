@@ -1,6 +1,7 @@
 ---
 title: Ffion Byrewythe — Lanva March
 author: Cynthia
+---
 excerpt: Beneath the hot sun, the wind howled and swirled across a vast and 
 unending prairie; each gust seized hold of flaxen stalks and *pulled*,
 threatening to yank them out by their roots. But no matter how severe
@@ -23,7 +24,9 @@ gestures, each individually too small to be called a spell -- bending
 that violent wind around her in subtle ways. Not enough to stop it, but
 enough to keep on her feet. She'd wear herself out if she tried anything
 more, as far as she had to go.
----
+
+<!--more-->
+
 It was rough today; the prairie schooners were few and far between, and
 the wronghorn herds out in the distance were restless. But Ffion had
 insisted on going out. As bad as the wind was, it would only worsen in
