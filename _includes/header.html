@@ -31,7 +31,7 @@
 </header>
 <script>
 (function () {
-	var PLAYLIST_ID = 'PL1XJlM2WvCINiHhdw0_O3jY0tXa3NFtQw';
+	var VIDEO_ID = 'b7XxW7wqAZ8';
 	var player = null;
 	var ready = false;
 	var pendingPlay = false;
@@ -60,9 +60,8 @@
 		player = new YT.Player('theme-player', {
 			height: '1',
 			width: '1',
+			videoId: VIDEO_ID,
 			playerVars: {
-				listType: 'playlist',
-				list: PLAYLIST_ID,
 				autoplay: 0,
 				controls: 0,
 				disablekb: 1,
