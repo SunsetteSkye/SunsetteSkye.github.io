@@ -141,6 +141,10 @@ nav > span > a > h2 {
 	display: inline;
 }
 
+nav > span > h2 {
+	display: inline;
+}
+
 /* SECTION */
 section {
 	box-sizing: border-box;
