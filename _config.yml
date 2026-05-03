@@ -24,7 +24,7 @@ defaults:
   - scope:
       type: story
     values:
-      layout: news
+      layout: story
   - scope:
       type: cast
     values:

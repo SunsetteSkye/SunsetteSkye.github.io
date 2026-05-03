@@ -1,4 +1,5 @@
-{%- assign col = site.news -%}
+{%- assign colname = include.colname | default: "news" -%}
+{%- assign col = site[colname] -%}
 
 {%- assign index = 0 -%}
 {%- for item in col %}
