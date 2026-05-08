@@ -17,37 +17,25 @@
 <meta name="rating" content="general">
 
 <!-- META -->
-<!DOCTYPE html>
-<html lang="en">
-  <head prefix="og: https://ogp.me/ns#">
-    <!-- ... other tags like title, link, charset, viewport -->
+    {%- if page.collection == "story" -%}
+    <meta property="og:title" content="{{ page.title | escape }} — Sundered Marches" />
+    <meta property="og:description" content="{{ page.og_description | default: page.excerpt | strip_html | strip_newlines | truncate: 300 | escape }}" />
+    <meta property="og:image" content="{{ page.og_image | default: '/assets/storysocial.webp' | absolute_url }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ page.url | absolute_url }}" />
+    {%- else -%}
     <meta property="og:title" content="Sundered Marches" />
-    <meta
-      property="og:description"
-      content="Revolution, industry, and bleeding moons. The Sundered Marches is a steampunk fantasy of war, witchcraft, and the lies nations tell themselves to survive."
-    />
-    <meta
-      property="og:image"
-      content="https://www.sunderedmarches.com/assets/logo4social.webp"
-	  />
-	<meta
-	  property="og:type" content="website"
-	  />
-	<meta
-	  property="og:url"
-	  content="https://www.sunderedmarches.com"
-	  />
+    <meta property="og:description" content="Revolution, industry, and bleeding moons. The Sundered Marches is a steampunk fantasy of war, witchcraft, and the lies nations tell themselves to survive." />
+    <meta property="og:image" content="https://www.sunderedmarches.com/assets/logo4social.webp" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.sunderedmarches.com" />
+    {%- endif -%}
  <meta name="twitter:site" content="@sunderedmarches" />
     <meta
       name="twitter:card"
       content="summary_large_image"
     />
 <!--    <meta name="twitter:creator" content="@sunsetteskye" /> -->
-  </head>
-  <body> 
-    <!-- Content you want to share -->
-  </body>
-</html>
 
 <!--CSS-->
 <link rel="stylesheet" href="/css/font-awesome.css">
