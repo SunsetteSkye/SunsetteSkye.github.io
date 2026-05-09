@@ -43,7 +43,7 @@ up over the amber waves, attached to a series of chained wooden wagons
 -- each kissed below with the pale blue glow of magic.
 
 A schooner caravan, one of the peculiarities of the Lanvan prairie that
-Ffion was quickly getting used to; they didn't work anywhere else in
+Ffion was quickly getting used to; they didn't work anywhere else in the
 Marches. Only merchants were foolish enough to brave the winds on days
 like this.
 
