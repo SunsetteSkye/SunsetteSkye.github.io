@@ -42,10 +42,9 @@ head and looked back down the plain to see a line of white sails rising
 up over the amber waves, attached to a series of chained wooden wagons
 -- each kissed below with the pale blue glow of magic.
 
-A schooner caravan, one of the peculiarities of the Lanvan prairie that
+A merchant's schooner caravan, one of the peculiarities of the Lanvan prairie that
 Ffion was quickly getting used to; they didn't work anywhere else in the
-Marches. Only merchants were foolish enough to brave the winds on days
-like this.
+Marches. 
 
 The young witch surprised herself with the annoyed grunt she made before
 scooting off hard to the left. Those things took forever and a day to
