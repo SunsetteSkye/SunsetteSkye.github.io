@@ -114,6 +114,8 @@ headed there as well, perhaps I could--"
 
 "Yes," Ffion said, cutting her off and moving more quickly. "Thank you."
 
+***Fermata.***
+
 ———
 
 There is no march more defined by wind than Lanva -- not even
@@ -156,5 +158,3 @@ frequently headed to Lanva, like many other marchers.
 
 After all, the more people there are, the more souls to tend. And the
 Ministry of Souls is quite damaged, indeed.
-
-***Fermata.***
