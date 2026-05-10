@@ -18,6 +18,13 @@
   }
 }
 
+.video-center {
+  text-align: center;
+}
+.video-center iframe {
+  max-width: 100%;
+}
+
 /* MARKDOWN */
 h1 {
 	font: normal normal normal 175% FontRye;
