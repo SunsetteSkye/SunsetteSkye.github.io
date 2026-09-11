@@ -7,6 +7,7 @@ author: Cynthia
 ## Fortunes Rising in the South Seas Marches
 
 GENTLE READER, 
+
 As we contemplate a fourth year of the Red Death, its spread throughout the Vencht Mountains continues unimpeded by the Imperial Hexenbauern. Although it has yet to reach as far west as Schongen Hill, many prominent wythes have withdrawn from the city in expectation of the worst. The widely-anticipated want of labor may prove of equal concern to reduced demand or capital in the course of years. Securities for rolling stock enterprises, even those most parochial and of little note in the Imperial City, have sharply depreciated in value and are expected to continue to do so.
 <!--more-->
 In the face of our presently dismal futures, we believe it prudent for reluctant readers to reconsider positions on the Forough Joint-Stock Market, upon the southern coast of Sarigia March. Three years in, Marcher cities have been but lightly visited by the Red Death; it has been well-argued elsewhere that the simple folk are proof against poxes which might more easily afflict souls of finer breeding, the twisted boon of their toxic soils. Not only are the marchfolk hardy, but their means of trade are as well. Securities within the Forough Market look principally to trading companies, traveling to the far-off western continents. Such activity will be little interrupted by the plague. 
