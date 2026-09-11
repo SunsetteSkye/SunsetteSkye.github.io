@@ -22,7 +22,7 @@ With the Imperial Hexenbauern fearing the plague may last as many as four additi
 
 GENTLE READER,
 
-Last week, officials at the Kanzlei of War announced the surprise capture of the chief conspirators of the self-styled Lilianovich Rebellion as well as the lightning recapture of the Perepolnenny administrative capital of Bevanosza. While the revolution-at-large continues, this series of events effectively leaves the treason headless and divides the conspirators’ remaining forces, in addition to denying them their central port.
+Last week, officials at the Kanzlei of War announced the surprise capture of the chief conspirators of the self-styled Lilianovich Rebellion, as well as the lightning recapture of the Perepolnenny administrative capital of Bevanosza. While the revolution-at-large continues, this series of events effectively leaves the treason headless and divides the conspirators’ remaining forces, in addition to denying them their central port.
 
 There are no immediate estimates as to when cosmofonic trading to Bevanosza will resume, but the prudent investor would liquidate wealth for investment in treasonous forfeiture with discreet haste. It is well-rumored that the Verwaltung has already begun drafting an act to strip land and title from faithless damelords in the Perepolnennies, and we expect a presentation of the bill to the Redentag within a fortnight.
 
