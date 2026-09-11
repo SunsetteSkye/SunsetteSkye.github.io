@@ -2,7 +2,7 @@
 title: Articles from Die Seherin (Persh 1, 1831)
 author: Cynthia
 ---
-*The below articles are translated from Volkenvencht, originally appearing in the Persh 1, 1831 edition of Die Seherin – about three years into the twenty-two-year reign of the Red Death. Regrettably, tables, charts and other figures have not been reproduced due to extensive damage in extant archival copies.*
+*The below articles are translated from Volkenvencht, originally appearing in the Persh 1, 1831 edition of **Die Seherin** – about three years into the twenty-two-year reign of the Red Death. Regrettably, tables, charts and other figures have not been reproduced due to extensive damage in extant archival copies.*
 
 ## Fortunes Rising in the South Seas Marches
 
