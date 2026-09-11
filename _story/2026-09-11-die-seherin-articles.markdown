@@ -4,7 +4,7 @@ author: Cynthia
 ---
 *The below articles are translated from Volkenvencht, originally appearing in the Persh 1, 1831 edition of Die Seherin – about three years into the twenty-two-year reign of the Red Death. Regrettably, tables, charts and other figures have not been reproduced due to extensive damage in extant archival copies.*
 
-**Fortunes Rising in the South Seas Marches**
+## Fortunes Rising in the South Seas Marches
 
 GENTLE READER, 
 As we contemplate a fourth year of the Red Death, its spread throughout the Vencht Mountains continues unimpeded by the Imperial Hexenbauern. Although it has yet to reach as far west as Schongen Hill, many prominent wythes have withdrawn from the city in expectation of the worst. The widely-anticipated want of labor may prove of equal concern to reduced demand or capital in the course of years. Securities for rolling stock enterprises, even those most parochial and of little note in the Imperial City, have sharply depreciated in value and are expected to continue to do so.
@@ -17,7 +17,7 @@ We remind the reader that, notwithstanding the considerable distance to that lan
 
 With the Imperial Hexenbauern fearing the plague may last as many as four additional years, an early investment is expected to be quite prudent at best, and of only modest risk at worst. Trading at such distances has its inconveniences, to be certain, but these are tolerable for the stability and safety of the quiet provincial market. Brokerage is reckoned by the transaction and not the sum, and so becomes less burdensome as the balance grows. The Margrave Sarigia and his newly-invented capital city are of little consequence to interests held at a remove.
 
-On Decisive Progress in the Perepolnennies and the Future of the Marches
+## On Decisive Progress in the Perepolnennies and the Future of the Marches
 
 GENTLE READER,
 
